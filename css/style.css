@@ -1,0 +1,54 @@
+body {
+  height: 100%;
+  font-family: 'Roboto Mono', monospace;
+  background-image: url("http://i.huffpost.com/gen/2013028/images/o-TYPEWRITER-facebook.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.well {
+  margin: 60px;
+}
+
+#title {
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  font-size: 22pt;
+}
+
+.search {
+  margin-left: 30%;
+  padding-top: 20px;
+}
+
+#wikiSearch {
+  cursor: pointer;
+  cursor: hand;
+  border: none;
+}
+
+#random {
+  text-align: center;
+  padding-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+}
+
+.res-title {
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+img {
+  height: 60px;
+}
